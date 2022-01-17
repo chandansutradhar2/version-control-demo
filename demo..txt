@@ -1,2 +1,7 @@
 this is a new line after first commit.
 second line added after some days
+
+checkCredntial(){
+
+    this is how code should work
+}
